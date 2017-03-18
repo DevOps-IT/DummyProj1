@@ -1,0 +1,8 @@
+/opt/MavenDemoProject/proj1/DevopsProj1/src/main/java/com/devops/model/Member.java
+/opt/MavenDemoProject/proj1/DevopsProj1/src/main/java/com/devops/controller/MemberController.java
+/opt/MavenDemoProject/proj1/DevopsProj1/src/main/java/com/devops/data/MemberRepository.java
+/opt/MavenDemoProject/proj1/DevopsProj1/src/main/java/com/devops/rest/JaxRsActivator.java
+/opt/MavenDemoProject/proj1/DevopsProj1/src/main/java/com/devops/rest/MemberResourceRESTService.java
+/opt/MavenDemoProject/proj1/DevopsProj1/src/main/java/com/devops/data/MemberListProducer.java
+/opt/MavenDemoProject/proj1/DevopsProj1/src/main/java/com/devops/util/Resources.java
+/opt/MavenDemoProject/proj1/DevopsProj1/src/main/java/com/devops/service/MemberRegistration.java

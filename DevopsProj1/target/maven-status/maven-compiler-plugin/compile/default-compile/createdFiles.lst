@@ -1,0 +1,9 @@
+com/devops/model/Member.class
+com/devops/util/Resources.class
+com/devops/data/MemberRepository.class
+com/devops/rest/JaxRsActivator.class
+com/devops/rest/MemberResourceRESTService.class
+com/devops/controller/MemberController.class
+com/devops/service/MemberRegistration.class
+com/devops/data/MemberListProducer.class
+com/devops/model/Member_.class
