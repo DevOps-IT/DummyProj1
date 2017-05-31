@@ -1,6 +1,5 @@
 DevopsProj1: Assortment of technologies including Arquillian
 ========================
-Author: Pete Muir
 Level: Intermediate
 Technologies: CDI, JSF, JPA, EJB, JPA, JAX-RS, BV
 Summary: An example that incorporates multiple technologies
