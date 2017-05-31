@@ -201,12 +201,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.70.136:8082/artifactory/DemoMavenRepo</url>
+            <url>http://192.168.70.130:8081/artifactory/DemoMavenRepo</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.70.136:8082/artifactory/DemoMavenRepo</url>
+            <url>http://192.168.70.130:8081/artifactory/DemoMavenRepo</url>
         </snapshotRepository>
     </distributionManagement>
     <build>
